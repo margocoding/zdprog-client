@@ -42,7 +42,7 @@ export function Footer() {
         </div>
         <div className="border-t border-white/10 pt-6 sm:pt-8 flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
           <p className="text-xs text-gray-500 text-center sm:text-left">
-            © 2024 ЖД-ПРОГ. Все права защищены.
+            © 2026 ЖД-ПРОГ. Все права защищены.
           </p>
           <Link href="/privacy" className="text-xs text-gray-500 hover:text-gray-300 transition-colors">
             Политика конфиденциальности
